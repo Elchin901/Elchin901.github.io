@@ -1,0 +1,211 @@
+.bg-div1{
+	background-color:#202020;
+}
+.bg-div2{
+	background-color:#171717;
+}
+.bg-col{
+	background-color:#e5c200;
+}
+.bg-col2{
+	background-color:#f0f0f0;
+}
+.fs-30{
+	font-size:30px;
+}
+.fs-22{
+	font-size:22px;
+}
+.fs-18{
+	font-size:18px;
+}
+.fs-14{
+	font-size:14px;
+}
+.fs-15{
+	font-size: 15px;
+}
+.fs-60{
+	font-size:60px;
+}
+.fs-106{
+	font-size:106px;
+}
+.fs-38{
+	font-size:38px;
+}
+.fs-44{
+	font-size:44px;
+}
+.fs-40{
+	font-size:40px;
+}
+.rgt{
+	margin-left:-52px;
+}
+.pz-10{
+	padding-top:-10px;
+	padding-bottom: -10px;
+}
+.py-65{
+	padding-top:65px;
+	padding-bottom:65px;
+}
+.px-60{
+	padding-left:60px;
+	padding-right:60px;
+}
+.py-35{
+	padding-top:35px;
+}
+.py-20{
+	padding-top:20px;
+}
+.pdr{
+	padding-right:150px;
+}
+.py-70{
+	padding-top:70px;
+}
+.pz-20{
+	margin-top:-100px;
+
+}
+.py-200{
+	padding-top:200px;
+	padding-bottom:200px;
+}
+.pxx-0{
+	margin-top:0;
+	margin-bottom:-20px;
+}
+.pxx-1{
+	margin-bottom:-65px;
+}
+.pxx-2{
+	margin-bottom:-50px;
+}
+.pyb-40{
+	padding-bottom:40px;
+}
+.raleway{
+	font-family: 'Raleway', sans-serif;
+}
+.open{
+	font-family: 'Open Sans', sans-serif;
+
+}
+.pdd{
+	padding-bottom:80px;
+}
+
+@media (max-width: 767.98px) {
+	.pad1{
+		margin-right:10px;
+	}
+	.mar2{
+        margin-top:10px;
+		margin-bottom:19px;
+	}
+	.mar3{
+		margin-right:20px;
+	}
+	.margin-jes{
+		margin-bottom:80px;
+	}
+	.pyy-0{
+		padding-right:-25px;
+	}
+	.deg-90{
+		transform:rotate(90deg);
+	}
+	.fss-30{
+		font-size:30px;
+	}
+	.fss-20{
+		font-size:20px;
+	}
+	.fss-15{
+		font-size:15px;
+	}
+	.padd-1{
+		padding-top:20px;
+		padding-bottom:20px;
+	}
+	.center1{
+		text-align:center;
+	}
+	.none{
+ 		display:none;
+ 	}
+ 	.line4{
+ 		line-height:15px; 
+ 	}
+ 	.mar-40{
+	    margin-top:-10px;
+	    margin-left:-10px;
+    }
+ 	
+ }
+ @media (min-width: 768px) and (max-width: 1199.98px) { 
+      .fss-21{
+      	font-size:21px;
+    }
+
+}
+@media (min-width: 768px){
+	.pd{
+		padding-top:15px;
+	}
+	.fss-25{
+		font-size:25px;
+	}
+	.fs-17{
+		font-size:17px;
+	}
+	
+}
+.bg-img{
+ 	background: url(../img/Q-A.png) no-repeat;
+ }
+ .w-45{
+ 	width:45%;
+ }
+ .center{
+ 	text-align:center;
+ }
+ .line{
+ 	line-height:80%;
+ }
+ .line2{
+ 	line-height:65%
+ }
+ .line3{
+ 	line-height:91%;
+ }
+ .bg-img2{
+ 	background: url("../img/Layer.png") no-repeat;
+ 	background-size:contain;
+ }
+ .bg-img3{
+ 	background:url("../img/brown.png") no-repeat;
+ 	background-size:contain;
+ }
+ .mr-1{
+ 	margin-top:180px;
+ }
+
+.cr:hover{
+	background-color:#e5c200;
+	transition: 1s ease;
+}
+.cr:hover .cv{
+	color: #000;
+}
+.border-top{
+	border-top:1px solid;
+	right: 
+}
+.w-20{
+	width:20%;
+}

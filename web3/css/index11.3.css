@@ -1,0 +1,93 @@
+.fs-14{
+	font-size:14px;
+}
+.fs-11{
+	font-size:11px;
+}
+.fs-32{
+	font-size:32px;
+}
+.mont{
+	font-family: 'Montserrat', sans-serif;
+}
+.mont2{
+	font-family: 'Montserrat', sans-serif;
+}
+.crim{
+	font-family: 'Crimson Text', serif;
+}
+ .sing-br{
+ 	border:1px solid #e7ebf2;
+ }
+.fs-25{
+	font-size:25px;
+}
+.fs-42{
+	font-size:42px;
+}
+.bg-iphone{
+	background: url("../img/Place.png") no-repeat;
+	background-size:cover;
+	margin-top:-10px;
+}
+.my-20{
+	margin-top:-20px;
+	margin-bottom:-20px;
+}
+.satify{
+	font-family: 'Satisfy', cursive;
+}
+.line-height{
+	line-height:100%;
+}
+.line2{
+	line-height:50%;
+}
+.spacing{
+	letter-spacing:40%; 
+}
+.py-110{
+	padding-bottom:110px;
+	padding-top:110px;
+}
+.mr-support{
+	margin-top:-7px;
+}
+.cover{
+	object-fit:cover;
+}
+.bg-white50{
+	background-color: #e4e5e7;
+}
+.bg-black{
+	background-color:#222328;
+}
+.mr-50{
+	margin-left:100px;
+}
+.w-84{
+	width:84% ! important;
+}
+.bg-layer{
+	background: url("../img/Layer1.png") no-repeat ;
+	background-size:cover;
+
+}
+.checkmark {
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color:#00e2aa;
+}
+
+
+@media (max-width: 767.98px) { 
+     .d-nonee{
+     	display: none;
+     }
+     .fss-11{
+     	font-size: 11px;
+     }
+    
+ }

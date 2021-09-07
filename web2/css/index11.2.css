@@ -1,0 +1,168 @@
+.fs-12{
+	font-size:12px;
+}
+.fs-14{
+	font-size:14px;
+}
+.fs-24{
+	font-size:24px;
+}
+.fs-140{
+	font-size:100px;
+}
+.fs-120{
+	font-size:120px;
+}
+.fs-30{
+	font-size:30px;
+}
+.fs-18{
+	font-size:18px;
+}
+.pop{
+	font-family: 'Poppins', sans-serif;
+}
+.danc{
+	font-family: 'Dancing Script', cursive;
+}
+.bg-col1{
+	background-color: #2b2b2b;
+}
+.bg-col2{
+	background-color:#b8c2c1;
+}
+.bg-col3{
+	background-color: #d9de55;
+}
+.bg-col4{
+	background-color:#f1f1f1;
+}
+.bg-col5{
+	background-color:#dddddd;
+}
+.bg-col6{
+	background-color:#292a29;
+}
+.bg-img{
+	background: url("../img/Date.gif") no-repeat;
+	background-size:contain;
+}
+.bg-line{
+	background: url("../img/Logo-g.png") no-repeat;
+	background-size:cover;
+}
+.line{
+	line-height:70%;
+}
+.py-60{
+	padding-top:100px;
+	padding-bottom:150px;
+}
+
+@media (max-width: 767.98px) {
+	.fss-70{
+		font-size:70px;
+	}
+	.fss-40{
+		font-size:50px;
+	}
+	.cent{
+	    vertical-align:center;
+	}
+	.pdd{
+		padding-left:10px;
+		padding-right:10px;
+	}
+	.d-none{
+		display:none;
+	}
+	.b-none{
+		display:none;
+	}
+	.fss-25{
+		font-size:15px;
+	}
+
+}
+@media (min-width: 767.98px){
+	.none{
+		display:none;
+	}
+}
+
+.cvv a:hover {
+	color:#80a05d !important;
+}
+.cd div:hover{
+	background-color:red !important;
+}
+.green div:hover{
+	background-color:#80a05d;
+}
+.item:hover .btn{
+	background-color: #80a05d;
+}
+.icon:hover{
+	color: #343434 !important;
+}
+.w-48{
+	width:48%;
+}
+.border-1{
+	border:5px solid white;
+}
+.px-10{
+	padding-left:15px;
+	padding-right:15px;
+}
+.h-200{
+	height:200px;
+}
+.cover{
+	object-fit:cover;
+}
+.hrr{
+	border:1px solid black;
+	width:60px;
+}
+.border-bt{
+	border-bottom:2px solid #303030;
+}
+.triangle1{
+	width: 0;
+  	border-left: 55px solid gray;
+  	border-bottom: 55px solid transparent;
+
+}
+.px-15{
+	padding-left:210px;
+}
+.border-circle{
+	border:1px solid none;
+	border-radius:50%;
+	background-color:#d9de55;
+}
+.px-march{
+	padding-left:22px;
+	padding-top: 100px;
+	color:#80a05d;
+}
+.nb-color{
+	color:#ececec;
+}
+.py-15{
+	margin-top:-25px;
+}
+.mr-block{
+	margin-top:60px;
+}
+.mr-blck{
+	padding-left:130px;
+}
+.mr-blck2{
+	margin-top:-26px;
+	margin-left:10px;
+}
+.right{
+	padding-left:210px;
+}
